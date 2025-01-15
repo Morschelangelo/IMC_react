@@ -44,5 +44,6 @@ ul li p {
     padding: 0.5em;
     text-align: center;
     font-weight: 600;
-    text-shadow: 1px 1.5px 1.5px black;
+    text-shadow: 1px 1.5px 1.5px black;    
+    color: #212121;
 }
