@@ -28,7 +28,7 @@ const IMCCalculado = ({ altura, peso }) => {
     }
 
     const tabelaImc = [
-        { limite: 18.5, classificacao: `Você está abaixo do peso. Aqui, pegue um hot dog meu amigo!`, cor: styles.baixoPeso },
+        { limite: 18.5, classificacao: `Você está abaixo do peso.`, cor: styles.baixoPeso },
         { limite: 24.9, classificacao: `Você está com peso normal, continue assim!`, cor: styles.pesoNormal },
         { limite: 29.9, classificacao: `Você está com sobrepeso, vamos fazer alguns exercícios?`, cor: styles.sobrepeso },
         { limite: 34.9, classificacao: `Você está com obesidade grau I.`, cor: styles.obesidadeI },
