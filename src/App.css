@@ -38,14 +38,16 @@
 }
 
 .read-the-docs {
-  color: #888;
+  color: #212121; /* Darker text color */
 }
 
 input {
   margin: 1em 1em;
+  color: #212121; /* Darker text color for input fields */
 }
 
 footer {
   margin-top: 1em;
   font-size: x-large;
+  color: #212121; /* Darker text color for footer */
 }
